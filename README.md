@@ -1,2 +1,2 @@
 # SOCIAL_NETWORKS_FQDN
-Social Networks FQDN List
+Social Networks FQDN Block List
