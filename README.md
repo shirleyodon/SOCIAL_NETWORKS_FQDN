@@ -1,0 +1,2 @@
+# SOCIAL_NETWORKS_FQDN
+Social Networks FQDN List
